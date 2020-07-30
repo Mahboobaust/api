@@ -3,73 +3,73 @@
     {
       "ClassNo": "1",
       "Topic": "Introduction to C#",
-      "VideoURL": "https://www.youtube.com/watch?v=0OUusDKh8Z8&feature=youtu.be"
+      "VideoURL": "0OUusDKh8Z8"
     },
     {
       "ClassNo": "2",
       "Topic": "Reading and writing in console, Bulit-in types in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=E0aeeO8e-8M"
+      "VideoURL": "E0aeeO8e-8M"
     },
     {
       "ClassNo": "3",
       "Topic": "Bulit-in types in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=7WrLNwVwLQE"
+      "VideoURL": "7WrLNwVwLQE"
     },
     {
       "ClassNo": "4",
       "Topic": "String type in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=fCCzA_B0_xU"
+      "VideoURL": "fCCzA_B0_xU"
     },
     {
       "ClassNo": "5",
       "Topic": "Data Type Conversion",
-      "VideoURL": "https://www.youtube.com/watch?v=qsI1yFqgvAU"
+      "VideoURL": "qsI1yFqgvAU"
     },
     
     {
       "ClassNo": "6",
       "Topic": "Arrays in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=vHl9STrkSTQ"
+      "VideoURL": "vHl9STrkSTQ"
     },
     {
       "ClassNo": "7",
       "Topic": "Switch Statement in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=iMZnUiIZbWg"
+      "VideoURL": "iMZnUiIZbWg"
     },
     {
       "ClassNo": "8",
       "Topic": "Loops in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=hFHThgQCyh4"
+      "VideoURL": "hFHThgQCyh4"
     },
     {
       "ClassNo": "9",
       "Topic": "Methods in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=Pn0aEaWtIbc"
+      "VideoURL": "Pn0aEaWtIbc"
     },
     {
       "ClassNo": "10",
       "Topic": "Namespace in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=39oToclxWWM"
+      "VideoURL": "39oToclxWWM"
     },
     {
       "ClassNo": "11",
       "Topic": "Inheritance in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=Xm5-Q2QQ_zU"
+      "VideoURL": "Xm5-Q2QQ_zU"
     },
     {
       "ClassNo": "12",
       "Topic": "Properties in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=zt-Njz0ZR-0"
+      "VideoURL": "zt-Njz0ZR-0"
     },
     {
       "ClassNo": "13",
       "Topic": "Struct in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=a37AL57bZi8"
+      "VideoURL": "a37AL57bZi8"
     },
     {
       "ClassNo": "14",
       "Topic": "Interface in C#",
-      "VideoURL": "https://www.youtube.com/watch?v=0OUusDKh8Z8"
+      "VideoURL": "0OUusDKh8Z8"
     }
   ]
 }
