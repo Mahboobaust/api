@@ -80,6 +80,21 @@
       "ClassNo": "15",
       "Topic": "Abstract Class in C#",
       "VideoURL": "jQr0JjY9HGA"
+    },
+    {
+      "ClassNo": "16",
+      "Topic": "Exception Handling in C#",
+      "VideoURL": "YN94iZxMras"
+    },
+    {
+      "ClassNo": "17",
+      "Topic": "Custom Exception Handling in C#",
+      "VideoURL": "gx5QenyYoYA"
+    },
+    {
+      "ClassNo": "18",
+      "Topic": "Enums in C#",
+      "VideoURL": "5c1KHQuP3YI"
     }
   ]
 }
