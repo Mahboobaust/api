@@ -94,7 +94,22 @@
     {
       "ClassNo": "18",
       "Topic": "Enums in C#",
-      "VideoURL": "5c1KHQuP3YI"
+      "VideoURL": "5c1KHQuP3YI"  // mE2DkUd_Tas
+    },
+    {
+      "ClassNo": "19",
+      "Topic": "Access Modifiers in C#",
+      "VideoURL": "mE2DkUd_Tas"  
+    },
+    {
+      "ClassNo": "20",
+      "Topic": "Delegates in C#",
+      "VideoURL": "TWpIJql6BZM"  
+    },
+    {
+      "ClassNo": "21",
+      "Topic": "Generics in C#",
+      "VideoURL": "hG4AeGtfT_w"  
     }
   ]
 }
