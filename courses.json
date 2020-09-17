@@ -18,6 +18,6 @@
   "imageUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.png",
   "description":"Detail courses on C Basics",
   "courseListUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.json",
-  "isAvailable":false,
+  "isAvailable":false
 }
 ]
