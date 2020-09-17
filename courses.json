@@ -1,23 +1,23 @@
 [
 {
   "title":"C#",
-  "imageUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/csharp.png",
+  "imageUrl":"csharp.png",
   "description":"Detail courses on C# Basics",
-  "courseListUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/course.json",
+  "courseListUrl":"course.json",
   "isAvailable":true
 },
 {
   "title":"SQL",
-  "imageUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.png",
+  "imageUrl":"sql.png",
   "description":"Detail courses on SQL Basics",
-  "courseListUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.json",
+  "courseListUrl":"sql.json",
   "isAvailable":true
 },
 {
   "title":"C",
-  "imageUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.png",
+  "imageUrl":"sql.png",
   "description":"Detail courses on C Basics",
-  "courseListUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.json",
+  "courseListUrl":"sql.json",
   "isAvailable":false
 }
 ]
