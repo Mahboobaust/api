@@ -8,7 +8,7 @@
 },
 {
   "title":"SQL",
-  "imageUrl":"",
+  "imageUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.png",
   "description":"Detail courses on SQL Basics",
   "courseListUrl":"https://raw.githubusercontent.com/Mahboobaust/api/master/sql.json",
   "isAvailable":true,
