@@ -112,6 +112,36 @@
       "ClassNo": "21",
       "Topic": "Generics in C#",
       "VideoURL": "hG4AeGtfT_w" 
+    },
+    {
+      "ClassNo": "1",
+      "Topic": "Connecting to SQL Server using SSMS",
+      "VideoURL": "Ao8Pw-cx0Z4" 
+    },
+    {
+      "ClassNo": "2",
+      "Topic": "Creating altering deleting Database",
+      "VideoURL": "PEWJJb98ils" 
+    },
+    {
+      "ClassNo": "3",
+      "Topic": "Cascading referential integrity constraint in sql server",
+      "VideoURL": "QEKI914Uqug" 
+    },
+    {
+      "ClassNo": "4",
+      "Topic": "Identity Column in sql server",
+      "VideoURL": "uYh8_sMZLhA" 
+    },
+    {
+      "ClassNo": "5",
+      "Topic": "Unique Key Constraint in sql server",
+      "VideoURL": "DsVemDxLpuA" 
+    },
+    {
+      "ClassNo": "6",
+      "Topic": "Joins in sql server",
+      "VideoURL": "rdqh2B77pI8" 
     }
   ]
 }
