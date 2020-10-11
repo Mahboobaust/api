@@ -145,8 +145,14 @@
     },
     {
       "ClassNo": "7",
-      "Topic": "Maultiple table joining in sql server",
+      "Topic": "Multiple table joining in sql server",
       "VideoURL": "YYLp60Tzwrk" 
+    },
+    ,
+    {
+      "ClassNo": "8",
+      "Topic": "Store Procedures in sql server",
+      "VideoURL": "d8rLhCLcoc4" 
     }
   ]
 }
