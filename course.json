@@ -153,6 +153,11 @@
       "ClassNo": "8",
       "Topic": "Store Procedures in sql server",
       "VideoURL": "d8rLhCLcoc4" 
+    },
+    {
+      "ClassNo": "9",
+      "Topic": "Stored Procedures with input and output parameters in sql server",
+      "VideoURL": "PDcnVJrJybI" 
     }
   ]
 }
