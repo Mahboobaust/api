@@ -162,6 +162,11 @@
       "ClassNo": "10",
       "Topic": "Advantages of Stored Procedures, Scaler user defined function,Inline table valued function, multi-statement table values function in sql server",
       "VideoURL": "QLUDATbXZ4E" 
-    }    
+    },
+    {
+      "ClassNo": "11",
+      "Topic": "Important concepts related to function, built-in functions, schemabinding function  in sql server",
+      "VideoURL": "b6J5UBUxSgE" 
+    }     
   ]
 }
