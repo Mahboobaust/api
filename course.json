@@ -167,6 +167,11 @@
       "ClassNo": "11",
       "Topic": "Important concepts related to function, built-in functions, schemabinding function  in sql server",
       "VideoURL": "b6J5UBUxSgE" 
-    }     
+    },
+    {
+      "ClassNo": "12",
+      "Topic": "Some important built-in functions in sql server (REPLICATE, SPACE, PATINDEX, REPLACE, STUFF)",
+      "VideoURL": "Pn535APWqjQ" 
+    }      
   ]
 }
