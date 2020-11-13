@@ -172,6 +172,16 @@
       "ClassNo": "12",
       "Topic": "Some important built-in functions in sql server (REPLICATE, SPACE, PATINDEX, REPLACE, STUFF)",
       "VideoURL": "Pn535APWqjQ" 
-    }      
+    },
+    {
+      "ClassNo": "13",
+      "Topic": "DatePart, DateAdd and DateDiff functions in SQL Server",
+      "VideoURL": "z8vIark9QBI" 
+    },
+    {
+      "ClassNo": "14",
+      "Topic": "Cast and convert functions in SQL Server",
+      "VideoURL": "7cub05MuMgk" 
+    }        
   ]
 }
