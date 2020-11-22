@@ -182,6 +182,11 @@
       "ClassNo": "14",
       "Topic": "Cast and convert functions in SQL Server",
       "VideoURL": "7cub05MuMgk" 
-    }        
+    },
+    {
+      "ClassNo": "15",
+      "Topic": "Temporary table and Index in SQL Server",
+      "VideoURL": "FdR8or-HOn8" 
+    }            
   ]
 }
