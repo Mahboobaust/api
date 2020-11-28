@@ -187,6 +187,21 @@
       "ClassNo": "15",
       "Topic": "Temporary table and Index in SQL Server",
       "VideoURL": "FdR8or-HOn8" 
-    }            
+    },
+    {
+      "ClassNo": "16",
+      "Topic": "Clustered, non clustered, unique indexes in sql server",
+      "VideoURL": "nnLBrICgL2Y" 
+    },
+    {
+      "ClassNo": "17",
+      "Topic": "Views in SQL Server",
+      "VideoURL": "ZiPTytrHBwM" 
+    },
+    {
+      "ClassNo": "18",
+      "Topic": "Indexed Views and Limitations of Views in SQL Server",
+      "VideoURL": "VybNijwD8zw" 
+    }                
   ]
 }
