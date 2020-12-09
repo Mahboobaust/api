@@ -202,6 +202,11 @@
       "ClassNo": "18",
       "Topic": "Indexed Views and Limitations of Views in SQL Server",
       "VideoURL": "VybNijwD8zw" 
-    }                
+    },
+    {
+      "ClassNo": "19",
+      "Topic": "DML Triggers in SQL Server",
+      "VideoURL": "B4652ESzN3Y" 
+    }                  
   ]
 }
