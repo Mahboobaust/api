@@ -1,0 +1,47 @@
+
+{
+  "presentationImages": [
+
+    {
+      "title":"Splash",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/1.png"
+    },
+     {
+      "title":"User Registration",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/2.png"
+    },
+    {
+      "title":"Terms & Condition",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/3.png"
+    },
+    {
+      "title":"Email Verification",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/47.png"
+    },
+    {
+      "title":"Phone Verification",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/45.png"
+    },
+    {
+      "title":"Email Login",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/2.png"
+    },
+    {
+      "title":"Terms & Condition",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/3.png"
+    },
+    {
+      "title":"Email or Phone Verification",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/6.png"
+    },
+    {
+      "title":"Otp Submission",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/4.png"
+    },
+    {
+      "title":"App Registration Complete",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/5.png"
+    }
+
+  ]
+}
