@@ -1,5 +1,6 @@
 
 {
+  "presentationOn":"Probashi Kallyan Bank Presentaion",
   "presentationImages": [
 
     {
@@ -41,6 +42,162 @@
     {
       "title":"App Registration Complete",
       "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/5.png"
+    },
+    {
+      "title":"Email Login",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/2.png"
+    },
+    {
+      "title":"Pin Login",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/9.png"
+    },
+    {
+      "title":"Dash Board",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/7.png"
+    },
+    {
+      "title":"Navigation Drawer",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/8.png"
+    },
+    {
+      "title":"Account List",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/10.png"
+    },
+    {
+      "title":"Account Detail",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/11.png"
+    },
+    {
+      "title":"Account Statement",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/12.png"
+    },
+    {
+      "title":"Mobile Recharge/TopUp",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/13.png"
+    },
+    {
+      "title":"TopUp Details",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/14.png"
+    },
+    {
+      "title":"TopUp Recharge Amount",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/15.png"
+    },
+    {
+      "title":"Confirm TopUp Recharge By Pin / Password",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/16.png"
+    },
+    {
+      "title":"bKash Menu",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/17.png"
+    },
+    {
+      "title":"Add bKash Beneficiary",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/18.png"
+    },
+    {
+      "title":" bKash Transfer",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/19.png"
+    },
+    {
+      "title":" bKash Beneficiary Management",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/20.png"
+    },
+    {
+      "title":" Bill Payment Menu",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/21.png"
+    },
+    {
+      "title":"Add Beneficiary Student",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/22.png"
+    },
+    {
+      "title":"Pay Fee",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/23.png"
+    },
+    {
+      "title":"Fund Transfer Menu",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/24.png"
+    },
+    {
+      "title":"Own Bank Transfer",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/27.png"
+    },
+    {
+      "title":"Other Bank Transfer",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/25.png"
+    },
+    {
+      "title":"BEFTN  Transfer",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/26.png"
+    },
+    {
+      "title":"NPSB  Transfer",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/31.png"
+    },
+    {
+      "title":"Add Own Bank Beneficiary",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/28.png"
+    },
+    {
+      "title":"Add Other Bank Beneficiary",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/29.png"
+    },
+    {
+      "title":"QR Menu",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/32.png"
+    },
+    {
+      "title":"QR Withdraw List",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/33.png"
+    },
+    {
+      "title":"QR Withdraw List Processing",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/34.png"
+    },
+    {
+      "title":"Pin Registration",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/35.png"
+    },
+    {
+      "title":"Change Pin",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/36.png"
+    },
+    {
+      "title":"Cheque Book List",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/37.png"
+    },
+    {
+      "title":"Beneficiary Management",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/38.png"
+    },
+    {
+      "title":"EMI Calculator",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/39.png"
+    },
+    {
+      "title":"EMI Calculator",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/39.png"
+    },
+    {
+      "title":"Contact Us",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/40.png"
+    },
+    {
+      "title":"ATM Branch Location",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/41.png"
+    },
+    {
+      "title":"FAQ",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/42.png"
+    },
+    {
+      "title":"Privacy",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/43.png"
+    },
+    {
+      "title":"Log Out",
+      "imageURL":"https://raw.githubusercontent.com/Mahboobaust/pkbimage/master/50.png"
     }
 
   ]
