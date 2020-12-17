@@ -207,6 +207,21 @@
       "ClassNo": "19",
       "Topic": "DML Triggers in SQL Server",
       "VideoURL": "B4652ESzN3Y" 
-    }                  
+    },
+    {
+      "ClassNo": "20",
+      "Topic": "After Update Trigger in SQL Server",
+      "VideoURL": "oD2HDcH4XX4" 
+    },
+    {
+      "ClassNo": "21",
+      "Topic": "Instead of insert trigger in sql server",
+      "VideoURL": "f_mF9XW5-hU" 
+    },
+    {
+      "ClassNo": "22",
+      "Topic": "Instead of delete trigger in sql server",
+      "VideoURL": "lYIAefOQbnU" 
+    }                     
   ]
 }
