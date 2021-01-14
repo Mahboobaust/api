@@ -222,6 +222,11 @@
       "ClassNo": "22",
       "Topic": "Instead of delete trigger in sql server",
       "VideoURL": "lYIAefOQbnU" 
-    }                     
+    },
+    {
+      "ClassNo": "23",
+      "Topic": "Database Normalisation r in sql server",
+      "VideoURL": "QhomhmzqPLw" 
+    }                        
   ]
 }
