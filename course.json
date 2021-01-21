@@ -227,6 +227,16 @@
       "ClassNo": "23",
       "Topic": "Database Normalisation r in sql server",
       "VideoURL": "QhomhmzqPLw" 
-    }                        
+    },
+    {
+      "ClassNo": "24",
+      "Topic": "Pivot Operation and Error Handling in SQL Server",
+      "VideoURL": "au-ifAsdbM4" 
+    },
+    {
+      "ClassNo": "25",
+      "Topic": "Transaction and Transaction Acid test in sql server",
+      "VideoURL": "m85-LapB0R0" 
+    }                               
   ]
 }
