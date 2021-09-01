@@ -133,6 +133,259 @@
 		"name":"Islami Bank Hospital Begum Rokeya Sarani",
 		"phone":"01992346631",
 		"locUrl":"https://www.google.com/maps/place/Islami+Bank+Hospital+Mirpur/@23.819487,90.3631992,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c12f806d72c9:0xba61c3103c290ec5!8m2!3d23.819487!4d90.3653879"
+	},
+	{
+		"name":"Central Hospital Limited",
+		"phone":"029660015",
+		"locUrl":"https://www.google.com/maps/place/Central+Hospital+Ltd./@23.7433187,90.38199,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b760487055:0x37543b5a72d5cf50!8m2!3d23.7433187!4d90.3841787"
+	},
+	{
+		"name":"Millennium Heart and General Hospital Limited",
+		"phone":"029124046",
+		"locUrl":"https://www.google.com/maps/place/Millennium+Heart+%26+General+Hospital+Ltd./@23.7565805,90.3641017,17z/data=!3m1!4b1!4m5!3m4!1s0x3755bf50b403b26d:0xe7d94953fbb0af9f!8m2!3d23.7565805!4d90.3662904"
+	},
+	{
+		"name":"Al Manar Hospital Limited",
+		"phone":"029121588",
+		"locUrl":"https://www.google.com/maps/place/AL-MANAR+HOSPITAL+LTD./@23.7558563,90.3610083,17z/data=!3m1!4b1!4m5!3m4!1s0x3755bf5a346f05d3:0x304d54c54f1c44b2!8m2!3d23.7558563!4d90.363197"
+	},
+	{
+		"name":"Holy Family Red Crescent Medical College Hospital, Eskaton Garden Road, Dhaka",
+		"phone":"0248311721",
+		"locUrl":"https://www.google.com/maps/place/Holy+Family+Red+Crescent+Medical+College+Hospital/@23.7467019,90.4009183,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b891de1de645:0x40ef87af7ed080c3!8m2!3d23.7467019!4d90.403107"
+	},
+	{
+		"name":"BIRDEM General Hospital",
+		"phone":"029661551",
+		"locUrl":"https://www.google.com/maps/search/BIRDEM+General+Hospital/@23.7352537,90.3990808,17z/data=!3m1!4b1"
+	},
+	{
+		"name":"LABAID specialist Hospital",
+		"phone":"09666710606",
+		"locUrl":"https://www.google.com/maps/place/LABAID+Specialized+Hospital/@23.7419249,90.3808435,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b7a02be491:0x45a9f97c4d06d4f9!8m2!3d23.7419249!4d90.3830322"
+	},
+	{
+		"name":"Square Hospital",
+		"phone":"09666710606",
+		"locUrl":"https://www.google.com/maps/place/Square+Hospitals+Ltd./@23.7528438,90.3793711,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8ae4e52eabd:0x113b1873c9a9c2c1!8m2!3d23.7528438!4d90.3815598"
+	},
+	{
+		"name":"Kingston Hospital",
+		"phone":"01952989866",
+		"locUrl":"https://www.google.com/maps/place/Kingston+Hospital/@23.8295448,90.3742476,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c6cb6d9f46c7:0x116b1d31d0f46615!8m2!3d23.8295448!4d90.3764363"
+	},
+	{
+		"name":"Comfort Diagnostic Centre Private Limited",
+		"phone":"01731956033",
+		"locUrl":"https://www.google.com/maps/place/Comfort+Diagnostic+Centre+Pvt.+Ltd./@23.7491851,90.3840511,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8bae68ebfb3:0x18ef158c060c1f5d!8m2!3d23.7491851!4d90.3862398"
+	},
+	{
+		"name":"Proshanti Hospital Limited",
+		"phone":"028318699",
+		"locUrl":"https://www.google.com/maps/place/Proshanti+Hospital+Limited/@23.7437304,90.4134048,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8616dd8160f:0xd53bc14588f7b257!8m2!3d23.7437304!4d90.4155935"
+	},
+	{
+		"name":"Japan East West Medical College Hospital",
+		"phone":"09611222666",
+		"locUrl":"https://www.google.com/maps/place/Japan+East+West+Medical+College+Hospital/@23.8943057,90.374341,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c59be2513425:0xb4b81fb9c1507371!8m2!3d23.8943057!4d90.3765297"
+	},
+	{
+		"name":"Khidma Hospital Private Limited",
+		"phone":"09606063030",
+		"locUrl":"https://www.google.com/maps/place/Khidmah+Hospital+Private+Limited/@23.749068,90.4179412,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b86519d8241f:0x56450d6300c23d2f!8m2!3d23.749068!4d90.4201299"
+	},
+	{
+		"name":"Farazy Hospital Ltd",
+		"phone":"01766111137",
+		"locUrl":"https://www.google.com/maps/place/Farazy+Hospital+Ltd./@23.7625105,90.4340623,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b809fd8d4487:0x7c9b3001d76ccc77!8m2!3d23.7625105!4d90.436251"
+	},
+	{
+		"name":"Kurmitola General Hospital",
+		"phone":"0255062388",
+		"locUrl":"https://www.google.com/maps/place/Kurmitola+General+Hospital/@23.8191217,90.4072166,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c6fbd881c29b:0x9a7be444b99f2fa!8m2!3d23.8191217!4d90.4094053"
+	},
+	{
+		"name":"Japan Bangladesh Friendship Hospital",
+		"phone":"029672277",
+		"locUrl":"https://www.google.com/maps/place/Japan+Bangladesh+Friendship+Hospital/@23.7893556,90.4155209,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c7a22d0ccf45:0xc8d9fe396f595671!8m2!3d23.7893556!4d90.4177096"
+	},
+	{
+		"name":"Nostrum Hospital",
+		"phone":"01786355355",
+		"locUrl":"https://www.google.com/maps/place/Nostrum+Hospital/@23.8744902,90.4004984,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c43a0cf819c7:0x2aeb14fac23c2b2c!8m2!3d23.8744902!4d90.4026871"
+	},
+	{
+		"name":"Enam Medical College And Hospital",
+		"phone":"01716358146",
+		"locUrl":"https://www.google.com/maps/place/Enam+Medical+College+and+Hospital/@23.8382957,90.2507527,17z/data=!3m1!4b1!4m5!3m4!1s0x3755eb44dcb4d975:0x25cfe643987539c9!8m2!3d23.8382957!4d90.2529414"
+	},
+	{
+		"name":"Universal Medical College Hospital Limited",
+		"phone":"01841480000",
+		"locUrl":"https://www.google.com/maps/place/Universal+Medical+College+Hospital+Ltd./@23.7761687,90.3934837,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c7685de58bdb:0x6aa035757776be60!8m2!3d23.7761687!4d90.3956724"
+	},
+	{
+		"name":"Universal Medical College Hospital Limited",
+		"phone":"01841480000",
+		"locUrl":"https://www.google.com/maps/place/Universal+Medical+College+Hospital+Ltd./@23.7761687,90.3934837,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c7685de58bdb:0x6aa035757776be60!8m2!3d23.7761687!4d90.3956724"
+	},
+	{
+		"name":"BIRDEM General Hospital 2 (Child And Mother)",
+		"phone":"0241050710",
+		"locUrl":"https://www.google.com/maps/place/BIRDEM+General+Hospital+2+(Child+and+Mother)/@23.7316636,90.4038682,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8f16d80eb29:0x9d0488355a1e9e6f!8m2!3d23.7316636!4d90.4060569"
+	},
+	{
+		"name":"Padma General Hospital Ltd",
+		"phone":"029661528",
+		"locUrl":"https://www.google.com/maps/place/Padma+General+Hospital/@23.7472133,90.3902104,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8bda2a2e67d:0x97f3cb4497585a4f!8m2!3d23.7472133!4d90.3923991"
+	},
+	{
+		"name":"Royal care And Surgical Hospital",
+		"phone":"01783199990",
+		"locUrl":"https://www.google.com/maps/search/oyal+care+And+Surgical+Hospital/@23.7472123,90.3748895,14z/data=!3m1!4b1"
+	},
+	{
+		"name":"Dhaka Centre International Medical College",
+		"phone":"029128727",
+		"locUrl":"https://www.google.com/maps/place/Dhaka+Central+International+Medical+College+%26+Hospital+(DCIMCH)/@23.7737872,90.3593011,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0a4bb97d8e5:0x62a614071eadd9f6!8m2!3d23.7737872!4d90.3614898"
+	},
+	{
+		"name":"Ahsania Mission Cancer And General Hospital",
+		"phone":"028931141",
+		"locUrl":"https://www.google.com/maps/place/Ahsania+Mission+Cancer+and+General+Hospital/@23.8697964,90.4197557,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c5c72d901071:0x5ad4ec00b91ab6c9!8m2!3d23.8697964!4d90.4219444"
+	},
+	{
+		"name":"BIHS Hospital",
+		"phone":"01783917151",
+		"locUrl":"https://www.google.com/maps/place/BIHS+Hospital/@23.7821786,90.3504681,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c094400db527:0x311b316afe80e3a5!8m2!3d23.7821786!4d90.3526568"
+	},
+	{
+		"name":"Uttara Crescent Hospital",
+		"phone":"01917704156",
+		"locUrl":"https://www.google.com/maps/place/Uttara+Crescent+Hospital/@23.8673299,90.3951307,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c423738c3563:0x8e704cb6d9c73c45!8m2!3d23.8673299!4d90.3973194"
+	},
+	{
+		"name":"Pancare Hospital Limited",
+		"phone":"01844001024",
+		"locUrl":"https://www.google.com/maps/place/Pancare+Hospital+Ltd./@23.7561455,90.3724364,17z/data=!3m1!4b1!4m5!3m4!1s0x3755bf53520d8853:0x9c43f6d77e7c67b6!8m2!3d23.7561455!4d90.3746251"
+	},
+	{
+		"name":"Memory Medical Centre",
+		"phone":"0248314317",
+		"locUrl":"https://www.google.com/maps/place/Memory+Medical+Centre/@23.7478032,90.3977664,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8903448284d:0x15a5a5b52b815889!8m2!3d23.7478032!4d90.3999551"
+	},
+	{
+		"name":"Delta Medical college & Hospital",
+		"phone":"029029152",
+		"locUrl":"https://www.google.com/maps/place/Delta+Medical+College+%26+Hospital/@23.7884058,90.3514047,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0eb1e47955b:0x549bf3cb28f896ef!8m2!3d23.7884058!4d90.3535934"
+	},
+	{
+		"name":"Delta Hospital Ltd",
+		"phone":"029022410",
+		"locUrl":"https://www.google.com/maps/place/Delta+Hospital+Ltd./@23.7871951,90.3492655,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0eb237d0dc7:0x955dd513d29dc4ee!8m2!3d23.7871951!4d90.3514542"
+	},
+	{
+		"name":"Islami Bank Centre Hospital, Fakirapul",
+		"phone":"029355801",
+		"locUrl":"https://www.google.com/maps/search/Islami+Bank+Centre+Hospital,+Fakirapul/@23.7385823,90.4130431,17z/data=!3m1!4b1"
+	},
+	{
+		"name":"Bangabandhu Sheikh Mujib Medical University",
+		"phone":"09611677777",
+		"locUrl":"https://www.google.com/maps/place/Bangabandhu+Sheikh+Mujib+Medical+University+Hospital/@23.739822,90.392488,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8954649cee5:0x3bdcd530be93b17a!8m2!3d23.739822!4d90.3946767"
+	},
+	{
+		"name":"Hitech Multi Care Hospital",
+		"phone":"01672241413",
+		"locUrl":"https://www.google.com/maps/place/Hi-Tech+Multicare+Hospital/@23.7881894,90.3859551,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c738c7307319:0x4ff18db7d2a08b5f!8m2!3d23.7881894!4d90.3881438"
+	},
+	{
+		"name":"Medical College For Women And Hospital",
+		"phone":"028913939",
+		"locUrl":"https://www.google.com/maps/place/Medical+College+For+Women+and+Hospital/@23.8582336,90.3987705,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c42781fe43d7:0x3ce8f886793902c7!8m2!3d23.8582336!4d90.4009592"
+	},
+	{
+		"name":"DR.Azmal Hospital Ltd",
+		"phone":"09612304304",
+		"locUrl":"https://www.google.com/maps/place/DR.+AZMAL+HOSPITAL+LTD./@23.8089744,90.3653108,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0d7b6411831:0xb6cfcd6f73664537!8m2!3d23.8089744!4d90.3674995"
+	},
+	{
+		"name":"BRB Hospital Limited",
+		"phone":"029140333",
+		"locUrl":"https://www.google.com/maps/place/DR.+AZMAL+HOSPITAL+LTD./@23.8089744,90.3653108,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0d7b6411831:0xb6cfcd6f73664537!8m2!3d23.8089744!4d90.3674995"
+	},
+	{
+		"name":"MARKS Medical College  & Hospital",
+		"phone":"028057776",
+		"locUrl":"https://www.google.com/maps/search/MARKS+Medical+College++%26+Hospital/@23.8089741,90.3587447,15z/data=!3m1!4b1"
+	},
+	{
+		"name":"KC Hospital &Diagnostic Centre",
+		"phone":"01777753464",
+		"locUrl":"https://www.google.com/maps/place/KC+Hospital+%26+Diagnostic+Center/@23.8605519,90.4206445,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c5d836a98925:0xf67bff55031a2e17!8m2!3d23.8605519!4d90.4228332"
+	},
+	{
+		"name":"Metropolitan Medical Centre Ltd",
+		"phone":"01718237035",
+		"locUrl":"https://www.google.com/maps/place/Metropolitan+Medical+Centre+Ltd./@23.7734983,90.3967413,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c76596202a9b:0xd4ada42c617cef80!8m2!3d23.7734983!4d90.39893"
+	},
+	{
+		"name":"Green Life Medical College Hospital",
+		"phone":"01718237035",
+		"locUrl":"https://www.google.com/maps/place/Green+Life+Medical+College+Hospital/@23.7464956,90.3836233,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8ba40ce18c1:0xc6222d1acf3135f1!8m2!3d23.7464956!4d90.385812"
+	},
+	{
+		"name":"Reliance General & Renal Hospital",
+		"phone":"01849428888",
+		"locUrl":"https://www.google.com/maps/place/Reliance+General+%26+Renal+Hospital/@23.7457935,90.3840883,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8ba3aa39b5d:0xaac3b0a6cb0ea1ff!8m2!3d23.7457935!4d90.386277"
+	},
+	{
+		"name":"Anwar Khan Modern Medical College Hospital",
+		"phone":"029670295",
+		"locUrl":"https://www.google.com/maps/place/Anwer+Khan+Modern+Medical+College+Hospital/@23.7452959,90.3803436,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c70c36ad55b7:0x74c943ed5b87296f!8m2!3d23.7452959!4d90.3825323"
+	},
+	{
+		"name":"Shin Shin Japan Hospital",
+		"phone":"029670295",
+		"locUrl":"https://www.google.com/maps/place/Shin+Shin+Japan+Hospital/@23.8771983,90.3883254,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c414385c5557:0xfaa47e7644f4bce2!8m2!3d23.8771983!4d90.3905141"
+	},
+	{
+		"name":"Sajida Hospital",
+		"phone":"029890513",
+		"locUrl":"https://www.google.com/maps/place/Sajeda+Hospital/@23.7030124,90.3865366,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b93b55ce54af:0x9c0ec0be42f01804!8m2!3d23.7030124!4d90.3887253"
+	},
+	{
+		"name":"HiCare General Hospital  Ltd",
+		"phone":"0255094231",
+		"locUrl":"https://www.google.com/maps/place/Hi-Care+General+Hospital+Ltd./@23.8688455,90.3917487,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c422a66bf021:0xe0e93ad3e16bf18a!8m2!3d23.8688455!4d90.3939374"
+	},
+	{
+		"name":"Central Police Hospital",
+		"phone":"01796500117",
+		"locUrl":"https://www.google.com/maps/place/Central+Police+Hospital/@23.7362529,90.4145396,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b85e7b8a672d:0x409cac4f3f2e176b!8m2!3d23.7362529!4d90.4167283"
+	},
+	{
+		"name":"Ashiyan Medical College Hospital",
+		"phone":"01841133501",
+		"locUrl":"https://www.google.com/maps/place/Ashiyan+Medical+College+Hospital/@23.836471,90.4513076,17z/data=!4m9!1m2!2m1!1sAshiyan+Medical+College+Hospital!3m5!1s0x3755c8a1c42964f5:0xcda70d2304017f89!8m2!3d23.8358837!4d90.4533774!15sCiBBc2hpeWFuIE1lZGljYWwgQ29sbGVnZSBIb3NwaXRhbJIBEGdlbmVyYWxfaG9zcGl0YWw"
+	},
+	{
+		"name":"ProActive Medical College & Hospital Ltd",
+		"phone":"01902556070",
+		"locUrl":"https://www.google.com/maps/place/Pro-Active+Medical+College+%26+Hospital+Ltd./@23.6936696,90.4819419,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b71f24245657:0xed3de465642f87!8m2!3d23.6936696!4d90.4841306"
+	},
+	{
+		"name":"Combined Military Hospital (CMH)",
+		"phone":"01724579521",
+		"locUrl":"https://www.google.com/maps/place/Combined+Military+Hospital+(CMH)/@23.8144598,90.3966869,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c6e16536e371:0xf1da9493f88d8f6a!8m2!3d23.8144598!4d90.3988756"
+	},
+	{
+		"name":"Gonoshasthaya Nagar Hospital",
+		"phone":"01716838078",
+		"locUrl":"https://www.google.com/maps/place/Gonoshasthaya+Nagar+Hospital/@23.7434591,90.3804935,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b716474ff5:0xc1b59c9f70cb8a2a!8m2!3d23.7434591!4d90.3826822"
 	}
 
 ]
+
+
+
